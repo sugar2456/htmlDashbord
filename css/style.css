@@ -54,7 +54,12 @@
     grid-area: main;
     border-radius: 14px;
     margin: 0.5%;
-    background-color: brown;
+    background-color: powderblue;
+}
+.main-iframe-style {
+    border-radius: 14px;
+    width:100%;
+    height:100%;
 }
 .main-article-show {
     height: 95%;
